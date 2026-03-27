@@ -50,7 +50,7 @@ The dataset is stored in Excel format and includes the following attributes:
 - Retailer  
 - Region  
 - Product Category  
-- Sales (USD)  
+- Sales  
 - Sales Method  
 
 ---
