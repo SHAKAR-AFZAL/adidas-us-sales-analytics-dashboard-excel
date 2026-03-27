@@ -122,6 +122,7 @@ The Excel dashboard displays:
 - Region-wise sales distribution  
 - Sales method breakdown  
 - Interactive filtering for deeper analysis
+
 <img width="1650" height="789" alt="Dashboard Picture" src="https://github.com/user-attachments/assets/215935fa-74e8-4861-b889-ef6c9793364a" />
 
 ---
